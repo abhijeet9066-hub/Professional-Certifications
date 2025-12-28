@@ -116,8 +116,8 @@ Healthcare business analytics across the US
 
 ## 📫 Let's Connect!
 
-- 💼 **LinkedIn:** [Your LinkedIn URL]
-- 📧 **Email:** [Your Email]
+- 💼 **LinkedIn:** [www.linkedin.com/in/abhijeet-vasantrao-patil-40b2a68b]
+- 📧 **Email:** [patilabhijeet222@gmail.com]
 - 🌐 **Certifications:** [View All 16 Certifications](https://github.com/abhijeetpatil-hub/professional-certifications)
 - 📍 **Location:** Nashik, Maharashtra, India
 - 🕐 **Timezone:** IST (UTC +5:30)
